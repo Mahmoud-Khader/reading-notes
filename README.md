@@ -3,28 +3,28 @@ The growth mindset can open pathways to more creativity and possibility, and ena
 - Here’s a simple illustration highlighting the differences between a fixed and a growth mindset:
 ![Growth mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
 ## Perseverance, gumption traps, and maintaining a growth mindset.
-### 1.Challenges.
-### 2.Obstacles.
-### 3.Effort.
-### 4.Criticism.
-### 5.Success of others.
+#### 1.Challenges.
+#### 2.Obstacles.
+#### 3.Effort.
+#### 4.Criticism.
+#### 5.Success of others.
 
 # Markdown on GitHub 
 **It's a basic writing and formatting syntax by**
 - Headings
-- Style text
+- *Style text*
 - Quoting text
 - Quoting code
-- Links
+- [Links](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#links)
 - Section links
 - Relative links
 - Lists
-- Task Lists
+- [x] Task Lists
 - Mentioning people and teams
 - Referencing issues and pull requests
 - Referencing external resources
 - Content attachments
-- Using emoji
+- Using emoji 😄
 - Ignoring Markdown formatting
 
 # GitHub Pages
