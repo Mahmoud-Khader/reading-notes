@@ -46,3 +46,24 @@ The growth mindset can open pathways to more creativity and possibility, and ena
 - Once you’re finished editing, scroll down to the bottom of the page and click **Commit changes**.
 ![Commit changes](https://guides.github.com/features/pages/commit-edits.png)
 - GitHub does all the work to direct visitors to username.github.io to view your new website. This can take up to 10 minutes. After some time has passed, you can open a new tab in your browser to go to your site!
+
+## Table of reading files :
+
+
+| Read files      | link |
+| ----------- | ----------- |
+| Read01      | [Link 1](https://mahmoud-khader.github.io/reading-notes/read01)      |
+| Read02      | [Link 2]()      |
+| Read03      | [Link 3]()      |
+| Read04      | [Link 4]()      |
+| Read05      | [Link 5]()      |
+| Read06      | [Link 6]()      |
+| Read07      | [Link 7]()      |
+| Read08      | [Link 8]()      |
+| Read09      | [Link 9]()      |
+| Read10      | [Link 10]()      |
+| Read11      | [Link 11]()      |
+| Read12      | [Link 12]()      |
+| Read13      | [Link 13]()      |
+| Read14      | [Link 14]()      |
+| Read15      | [Link 15]()      |
